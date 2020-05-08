@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul li{
+    list-style: none;
+    
+    
+}
+a{
+    text-decoration: none;
+}
+li:hover{
+    background-color:#007bff;
+    border: 10px black;
+    border-radius: 20px 20px 20px 20px;
+    
+}
+
+.seprataor{
+    width: 70px;
+    height: 2px;
+    display: block;
+    background-color: #71c418;
+}
+.mission marquee{
+    height: 200px;
+    width: 200px;
+}
